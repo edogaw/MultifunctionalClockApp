@@ -13,7 +13,7 @@ This app combines multiple time-related utilities into a single, elegant interfa
 - ⚡ Smooth animations and responsive interface
 
 ## 📸 Screenshots
-adding screenshots later
+![App](multifunctionalclockapp.png)
 
 ## 🚀 Installation
 
@@ -32,7 +32,7 @@ adding screenshots later
 3. Run the app:
 
    ```bash
-   python multifunction_clock_app.py
+   python multifunctional_clock_app.py
    ```
 
 ## 📦 Requirements
